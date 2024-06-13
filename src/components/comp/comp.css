@@ -16,9 +16,9 @@ label {
     justify-content: center;
   }
   
-  .color-select input[type="radio"] {
+  /* .color-select input[type="radio"] {
     display: none;
-  }
+  } */
 
 .qrcolores{
     width: 80px;
